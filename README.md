@@ -10,4 +10,4 @@ LiveCode is an easy, English-like, object-oriented, event-driven programming lan
 In LiveCode, you start by dropping GUI elements into place, then add the code that makes them function.... it's very visual!
 
 So wouldn't it be great if we could employ the easy gui creation afforded by LiveCode with the python text eco system.
-That's what this repository is about, my experiments with bi comunication beteew the two forces.
+That's what this repository is about, my experiments with bi comunication between the two languages.
